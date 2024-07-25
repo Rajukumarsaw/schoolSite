@@ -3,7 +3,7 @@
 const Admissions = () => {
   return (
     <>
-     <div className="w-screen h-96 "><img src="https://images.unsplash.com/photo-1580582932707-520aed937b7b?q=80&w=1932&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" 
+     <div className="w-screen h-96 "><img src="https://plus.unsplash.com/premium_photo-1674727219372-4ba6644106bc?q=80&w=1770&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" 
      alt="school image" 
      loading="lazy"
      className="w-full h-full"/></div>

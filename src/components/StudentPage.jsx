@@ -2,7 +2,7 @@
 const StudentPage = () => {
   return (
     <>
-     <div className="w-screen h-96 "><img src="https://plus.unsplash.com/premium_photo-1682284353484-4e16001c58eb?q=80&w=1770&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" 
+     <div className="w-screen h-96 "><img src="https://images.unsplash.com/photo-1512504002392-f3cd887140de?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" 
      alt="school image"
      loading="lazy" 
      className="w-full h-full"/></div>

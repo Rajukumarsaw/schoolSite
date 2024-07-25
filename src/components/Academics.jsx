@@ -3,7 +3,7 @@
 const Academics = () => {
   return (
     <>
-    <div className="w-full h-96 "><img src="https://images.unsplash.com/photo-1598981457915-aea220950616?q=80&w=1793&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    <div className="w-full h-96 "><img src="https://images.unsplash.com/photo-1544830281-1d5169d6b2af?q=80&w=1770&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
      alt="school image"
      loading="lazy"
       className="w-full h-full"/></div>
